@@ -1,0 +1,31 @@
+[project]
+name = "Top-assisted-time-series-classification"
+version = "0.1.0"
+description = "A package for classifying time series data using topological features."
+authors = [
+    { name = "Sharareh Sayyad", email = "sharareh.sayyad@wsu.edu" }
+]
+
+license = "BSD-3-Clause"
+readme = "README.md"
+
+requires-python = ">=3.11"
+dependencies = [
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+# [tool.poetry]
+# packages = [
+#     { include = "top-assisted-time-series-classification", from = "top-assisted-time-series-classification" },
+# ]
+
+# [build-system]
+# requires = ["poetry-core>=2.0.0,<3.0.0"]
+# build-backend = "poetry.core.masonry.api"
