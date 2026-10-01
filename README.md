@@ -67,7 +67,7 @@ If you find this code useful in your research, please consider citing our
 paper:
 
 > Sharareh Sayyad and Sophia Bazzi. *TopTimeNet: Topologically-Assisted
-> Time-Series Classification Model*. To appear on arXiv, 2026.
+> Time-Series Classification Model*. arXiv:2609.39792, 2026.
 
 ```bibtex
 @article{sayyad2026toptimenet,
