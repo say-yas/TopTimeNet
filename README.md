@@ -73,7 +73,7 @@ paper:
 @article{sayyad2026toptimenet,
   title   = {TopTimeNet: Topologically-Assisted Time-Series Classification Model},
   author  = {Sayyad, Sharareh and Bazzi, Sophia},
-  journal = {arXiv preprint},
+  journal = {arXiv:2609.39792},
   year    = {2026}
 }
 ```
